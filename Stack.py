@@ -1,3 +1,6 @@
+# RG
+# 11.2
+
 class Stack:
 
     def __init__(self):
